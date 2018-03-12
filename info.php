@@ -67,7 +67,7 @@ if (defined('WB_PATH')) {
 $module_directory     = 'lib_dwoo';
 $module_name          = 'Dwoo Library for LEPTON';
 $module_function      = 'library';
-$module_version       = '2.0';
+$module_version       = '0.2.0';
 $module_platform      = '1.2.0';
 $module_author        = 'Dwoo/Jordi Boggiano, LEPTON team';
 $module_license       = 'GNU General Public License';
